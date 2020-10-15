@@ -15,13 +15,19 @@ From the [Project Jupyter](https://jupyter.org) website:
 
 ### 02_intro_python
 
-### 03_analysis_in_MNE
+### 03_MNE_preprocessing_EEG
 
-### 04_preprocessing_audio
+### 04_MNE_preprocessing_ECoG
 
-### 05_mTRF_analysis
+### 05_MNE_plotting
 
-### 06_neural_networks
+### 06_preprocessing_audio
+
+### 07_forced_aligner
+
+### 08_mTRF_analysis
+
+### 09_neural_networks
 
 ## Other resources
 * [Codecademy python 2](https://www.codecademy.com/learn/learn-python) -- (python 3 is also available, but is not free. There are some minor differences in syntax but the tutorial for python 2 is definitely still useful if you're just starting out).
