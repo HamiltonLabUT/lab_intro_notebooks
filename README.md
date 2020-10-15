@@ -7,6 +7,8 @@ Welcome to the lab! If you're reading this, hopefully you are getting started le
 ### Why python?
 Python is a great choice for scientific computing, has a wide user base in academia and industry, and is free! Skills you learn from python can be transferred to other programming languages relatively easily, but python is still one of the most popular programming languages across many fields.
 
+To run these notebooks on your own computer, I recommend installing [Anaconda python version 3, 64 bit](https://www.anaconda.com/products/individual#Downloads). If you have trouble running these notebooks on your own computer, you can try running them on [Google colab](https://colab.research.google.com/), which won't require you to install anything on your computer, however, there may be code packages you'll have to download from within the colab session. Ask Liberty if you need help.
+
 ### What is a Jupyter notebook?
 From the [Project Jupyter](https://jupyter.org) website: 
 > The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
