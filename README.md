@@ -32,6 +32,6 @@ From the [Project Jupyter](https://jupyter.org) website:
 ## Other resources
 * [Codecademy python 2](https://www.codecademy.com/learn/learn-python) -- (python 3 is also available, but is not free. There are some minor differences in syntax but the tutorial for python 2 is definitely still useful if you're just starting out).
 * From UC Berkeley's [Computational Models of Cognition course](https://github.com/compmodels)
-* [Linear algebra in python](https://github.com/compmodels/problem-sets/blob/master/linear_algebra_review/Linear%20Algebra%20in%20Python.ipynb)
-* [Principal component analysis](https://github.com/compmodels/problem-sets/blob/master/pca_demo/PCA%20Demo.ipynb)
-* [Review of probability](https://github.com/compmodels/problem-sets/tree/master/probability_review)
+  * [Linear algebra in python](https://github.com/compmodels/problem-sets/blob/master/linear_algebra_review/Linear%20Algebra%20in%20Python.ipynb)
+  * [Principal component analysis](https://github.com/compmodels/problem-sets/blob/master/pca_demo/PCA%20Demo.ipynb)
+  * [Review of probability](https://github.com/compmodels/problem-sets/tree/master/probability_review)
