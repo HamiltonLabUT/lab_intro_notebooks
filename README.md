@@ -22,3 +22,6 @@ From the [Project Jupyter](https://jupyter.org) website:
 ### 05_mTRF_analysis
 
 ### 06_neural_networks
+
+## Other resources
+* [Codecademy python 2](https://www.codecademy.com/learn/learn-python) -- (python 3 is also available, but is not free. There are some minor differences in syntax but the tutorial for python 2 is definitely still useful if you're just starting out).
