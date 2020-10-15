@@ -5,6 +5,7 @@ Jupyter notebooks for learning basics of python, MNE-python, STRF-fitting and mo
 Welcome to the lab! If you're reading this, hopefully you are getting started learning how to use python and jupyter notebooks to do some analysis of neuroscience data! In our lab, this includes scalp electroencephalography (EEG) as well as intracranial electrophysiology (ECoG or stereo EEG). The tutorials here are organized into Jupyter notebooks that will go through a series of concepts that will give you the foundation for what you need in the lab. Of course, there are many more excellent tutorials that are broader and go into more detail on some topics that we won't address. I'll leave links for those at the bottom. For now, start with reading this README, and then choose which notebook you would like to start with!
 
 ### Why python?
+Python is a great choice for scientific computing, has a wide user base in academia and industry, and is free! Skills you learn from python can be transferred to other programming languages relatively easily, but python is still one of the most popular programming languages across many fields.
 
 ### What is a Jupyter notebook?
 From the [Project Jupyter](https://jupyter.org) website: 
