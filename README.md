@@ -44,6 +44,9 @@ How to use ridge regression to fit a multivariate temporal receptive field (mTRF
 ### 10_neural_networks
 Intro to using convolutional neural networks in encoding model frameworks.
 
+### 11_tacc
+General advice on using TACC resources (Texas Advanced Computing Center)
+
 ## Other resources
 * [Codecademy python 2](https://www.codecademy.com/learn/learn-python) -- (python 3 is also available, but is not free. There are some minor differences in syntax but the tutorial for python 2 is definitely still useful if you're just starting out).
 * From UC Berkeley's [Computational Models of Cognition course](https://github.com/compmodels)
